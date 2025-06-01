@@ -9,10 +9,10 @@ We do not apply any modifications to the open source validator software clients,
 
 ## Additional software & services
 ### Triton One Jet / Cascade Marketplace
-Starting at the end of April 2026 we began testing receiving transactions from the Cascade Marketplace operated by Triton One.  We do not believe this contributes or encourages detrimental outcomes on the network.
+Starting at the end of April 2025 we began testing receiving transactions from the Cascade Marketplace operated by Triton One.  We do not believe this contributes or encourages detrimental outcomes on the network.
 
 ### Marinade Stake Auction Marketplace (SAM)
-Starting in May 2026 (epoch 782) we are testing Marinade's marketplace as an additional means of attracting stake.  It's brought to our attention that others use that in their operations when sandwiching transactions.  We are against this practice entirely and do not wish to be conflated with those validators.
+Starting in May 2025 (epoch 782) we are testing Marinade's marketplace as an additional means of attracting stake.  It's brought to our attention that others use that in their operations when sandwiching transactions.  We are against this practice entirely and do not wish to be conflated with those validators.
 
 ## Validator commission
 On the public validator we run at 4% commission on inflation and 4% on MEV. See details and sign up for alerts here: https://stakewiz.com/validator/gaToR246dheK1DGAMEqxMdBJZwU4qFyt7DzhSwAHFWF
