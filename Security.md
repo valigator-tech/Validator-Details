@@ -1,4 +1,4 @@
-# Valigator Staking Security
+# Valigator Disclosures & Security Statements
 We put huge priority on security and ethical operations. We apply all best practices from our experience running enterprise technology environments to our operations in blockchain infrastructure. We run our systems like our own tokens depend on it. Because they do.
 
 ## Security
