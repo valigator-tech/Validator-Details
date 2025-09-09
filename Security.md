@@ -12,12 +12,8 @@ We do not apply any modifications to the open source validator software clients,
 Starting at the end of April 2025 we began testing receiving transactions from the Cascade Marketplace operated by Triton One.  We do not believe this contributes or encourages detrimental outcomes on the network.
 
 ### Marinade Stake Auction Marketplace (SAM)
-Tldr; Valigator took place in the Marinade marketplace from about epoch 782 to 797 as a test and not at a loss to perform sandwiching.   Then we re-joined around epoch 808 after sandwichers were kicked out.
-
-Starting in May 2025 (epoch 782) we tested Marinade's stake auction marketplace (SAM) as an additional means of attracting stake.  It's been brought to our attention that others use the SAM in their operations when sandwiching transactions.  We are against this practice entirely and do not wish to be conflated with those validators.   We left the marketplace starting in epoch 797 after being dissapointed in the transparency, logistics and perception of it.
-
-Late June 2025 (epoch 808) we decided to give SAM one more try after the announcement on the attempts at banning sandwichers.
-
+Tldr; Valigator has taken place in the Marinade marketplace at multiple time periods in the past and has not found it economical for us.
+ß
 ### DoubleZero
 Starting in epoch 795 Valigator's mainnet-beta public validator joined the DoubleZero testnet.
 
