@@ -13,9 +13,10 @@ Starting at the end of April 2025 we began testing receiving transactions from t
 
 ### Marinade Stake Auction Marketplace (SAM)
 Tldr; Valigator has taken place in the Marinade marketplace at multiple time periods in the past and has not found it economical for us.
-ß
+
 ### DoubleZero
 Starting in epoch 795 Valigator's mainnet-beta public validator joined the DoubleZero testnet.
+Starting in epoch 858 Valigator's mainnet-beta public validator joined the DoubleZero mainnet.
 
 ## Validator commission
 On the public validator we run at 4% commission on inflation and 4% on MEV. See details and sign up for alerts here: https://stakewiz.com/validator/gaToR246dheK1DGAMEqxMdBJZwU4qFyt7DzhSwAHFWF
