@@ -18,6 +18,9 @@ Tldr; Valigator has taken place in the Marinade marketplace at multiple time per
 Starting in epoch 795 Valigator's mainnet-beta public validator joined the DoubleZero testnet.
 Starting in epoch 858 Valigator's mainnet-beta public validator joined the DoubleZero mainnet.
 
+### Jito BAM
+Starting in epoch 871 Valigator began running BAM on the public validator to test it out on Mainnet.
+
 ## Validator commission
 On the public validator we run at 4% commission on inflation and 4% on MEV. See details and sign up for alerts here: https://stakewiz.com/validator/gaToR246dheK1DGAMEqxMdBJZwU4qFyt7DzhSwAHFWF
 
