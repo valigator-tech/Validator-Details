@@ -30,5 +30,9 @@ Using git provides users information transparently about all changes with dates 
 ## Contacts
 Twitter https://x.com/ValigatorTech
 
+## Regulations
+
+NMLS #31000314392037
+
 ## Credit
 Credit to @diman_io for the concept of using git history as proof of security statment. 
