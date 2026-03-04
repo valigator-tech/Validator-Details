@@ -9,7 +9,7 @@ We do not apply any modifications to the open source validator software clients,
 
 ## Additional software & services
 ### Triton One Jet / Cascade Marketplace
-Starting at the end of April 2025 we began testing receiving transactions from the Cascade Marketplace operated by Triton One.  We do not believe this contributes or encourages detrimental outcomes on the network.
+Starting at the end of April 2025 we began testing receiving transactions from the Cascade Marketplace operated by Triton One.  We do not believe this contributes or encourages detrimental outcomes on the network. The Cascade Marketplace began to wind down in 2026.  Our participating ended in January 2026.
 
 ### Marinade Stake Auction Marketplace (SAM)
 Tldr; Valigator has taken place in the Marinade marketplace at multiple time periods in the past and has not found it economical for us.
